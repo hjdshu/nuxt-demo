@@ -1,0 +1,9 @@
+{ 
+  "scripts": {
+    "dev": "nuxt",
+    "spa": "nuxt --spa"
+  },
+  "dependencies": {
+    "nuxt": "^2.10.2"
+  }
+}
